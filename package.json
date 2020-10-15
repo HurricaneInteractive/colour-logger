@@ -1,8 +1,23 @@
 {
-	"name": "template",
+	"name": "@adrocodes/log",
 	"version": "1.0.0",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
+	"repository": {
+		"url": "https://github.com/HurricaneInteractive/colour-logger"
+	},
+	"author": {
+		"email": "hurricane.interactive@gmail.com",
+		"name": "HurricaneInteractive",
+		"url": "https://github.com/HurricaneInteractive"
+	},
+	"bugs": {
+		"url": "https://github.com/HurricaneInteractive/colour-logger"
+	},
+	"files": [
+		"dist",
+		"README.md"
+	],
 	"license": "MIT",
 	"devDependencies": {
 		"@types/jest": "^26.0.14",
